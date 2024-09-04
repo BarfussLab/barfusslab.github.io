@@ -11,7 +11,7 @@
 	</tr>
 </table> -->
 
-<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 	<tr> 
 	<!-- <td align="center" style="padding:2.5%;width:30%">
 		<img style="width:80%;max-width:130px" src="../static/assets/img/wolf.png">
