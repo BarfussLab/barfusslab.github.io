@@ -38,7 +38,7 @@
 		<img style="width:80%;max-width:130px" src="../static/assets/img/wolf.png">
 	</td> -->
 	<td>
-		<strong>Jaques Bara</strong><br> 
+		<strong>Jacques Bara</strong><br> 
 		Senior researcher<br>
 		<!-- <small>
 		<a href="https://wbarfuss.github.io"><i class="bi bi-link-45deg"></i></a> 
