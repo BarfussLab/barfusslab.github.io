@@ -11,7 +11,7 @@ to better understand how in complex environments, individual decisions become co
 
 We are **sustainability system scientists**. No single academic discipline alone is up to the task. We are a young, strongly evolving, interdisciplinary team building bridges between Complex System Science, Multi-Agent Reinforcement Learning, Cognitive Science, Social-Ecological Resilience, and Sustainability Economics. To merge all of these perspectives, we practice humility in collective learning.
 
-We focus on excellence in developing **theory-driven computational models**. They bridge mathematical with computational modeling to eventually reshape our mental and verbal models of Nature-Society relationships. We make our models and their assumptions fully transparent, open source, and reproducible. We also educate the next generation of sustainability system modelers. Why? To **initiate large-scale collective learning for a sustainable future**.
+We focus on excellence in developing **theory-driven computational models**. They bridge mathematical modelling with the computational to eventually reshape our mental and verbal models of Nature-Society relationships. We make our models and their assumptions fully transparent, open source, and reproducible. We also educate the next generation of sustainability system modelers. Why? To **initiate large-scale collective learning for a sustainable future**.
 
 ---
 [Publications](publications.html) 
